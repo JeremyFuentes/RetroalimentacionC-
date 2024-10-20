@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.exe
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.deps.json
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.runtimeconfig.json
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.dll
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\bin\Debug\net8.0\RetroalimentacionC#.pdb
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.AssemblyInfo.cs
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.dll
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\refint\RetroalimentacionC#.dll
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.pdb
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\RetroalimentacionC#.genruntimeconfig.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Programacion II\guias\RetroalimentacionC#\RetroalimentacionC#\obj\Debug\net8.0\ref\RetroalimentacionC#.dll
